@@ -1,0 +1,11 @@
+table{
+  background-color: grey;
+  border-collapse: collapse;
+  margin: 30px auto;
+}
+th,td{
+  border: 10px solid black;
+  padding: 30px ;
+  color: aliceblue;
+  font-size: 30px;
+}
